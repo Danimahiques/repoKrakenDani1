@@ -3,3 +3,4 @@
 (C) Benvinguda a la branca 02 Dani
 (D) Modificació 02 Main Dani
 (E) Afegim imatge a branca01.
+(F) Afegim imatge a branca02
