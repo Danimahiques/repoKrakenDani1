@@ -1,2 +1,4 @@
+(A) Benvinguda a la branca 01 Dani
 (B) Modificació 01 Main Dani
 (D) Modificació 02 Main Dani
+(E) Afegim imatge a branca01.
