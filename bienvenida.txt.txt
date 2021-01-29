@@ -1,1 +1,2 @@
 (A) Benvinguda a la branca 01 Dani
+(E) Afegim imatge a branca01.
